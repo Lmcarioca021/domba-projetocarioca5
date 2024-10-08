@@ -1,13 +1,13 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'discussão',
+    'Palmeiras tem mundial?',
+    'não'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual a capital do Rio de Janeiro?',
+    'A capital é o Rio de Janeiro'
 )
 
 criaCartao(
